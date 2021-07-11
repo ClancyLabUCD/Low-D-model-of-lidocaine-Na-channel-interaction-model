@@ -1,5 +1,5 @@
 # Low-D-model-of-lidocaine-Na-channel-interaction-model
-# LowD_Lidocaine_Na_channel_model
+
 C++ code for low-dimensional model of lidocaine-Na channel interaction model
 
 
